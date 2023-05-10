@@ -78,7 +78,7 @@ WSGI_APPLICATION = 'clipo.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE':'django.db.backends.mysql',
-        'NAME': 'clipodb1',
+        'NAME': 'clipodb2',
         'USER': 'root',
         'PASSWORD':'',
         'HOST':'localhost',
